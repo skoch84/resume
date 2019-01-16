@@ -4,3 +4,19 @@ header {
 .main {
   margin: 3vw;
 }
+
+.skills li{
+  width: 43vw;
+  display: inline-block;
+  list-style-type: circle;
+}
+
+.personal-photo {
+  position: relative;
+}
+
+.personal-photo select {
+  position: absolute;
+  top: 20vh;
+  right: 15vw;
+}
